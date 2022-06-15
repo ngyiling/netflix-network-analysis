@@ -6,7 +6,7 @@ A group work to analyse the interpersonal relationships among directors and cast
 **Technology:** Networkx, Matplotlib, Wordcloud, Pandas, NumPy <br />
 <br />
 **Results:** 
-- 207 directors and casts identified, with 860 collaboration among casts and directors. 
-- Identified communities, the relationships among communities and individuals, and individuals who are highly influencial. 
-- Measured the homophily based on movie genre (Fiction & Non-Fiction).
+- 207 directors and casts identified, with 860 collaboration among casts and directors
+- Identified communities, the relationships among communities and individuals, and individuals who are highly influencial
+- Measured the homophily based on movie genre (Fiction & Non-Fiction)
 
